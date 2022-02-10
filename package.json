@@ -10,7 +10,7 @@
     "babel-plugin-named-asset-import": "^0.3.4",
     "babel-preset-react-app": "^9.0.2",
     "emotion": "^10.0.17",
-    "node-sass": "^4.12.0",
+    "node-sass": "^7.0.0",
     "prop-types": "^15.7.2",
     "react": "^16.10.1",
     "react-app-polyfill": "^1.0.4",
